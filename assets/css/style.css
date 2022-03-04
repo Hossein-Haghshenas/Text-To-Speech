@@ -47,13 +47,13 @@ body {
   box-shadow: 0 0 3px 3px rgb(205 205 205 / 38%);
 }
 
-#submit-btn {
+#play-btn {
   padding: 0.5rem 2rem;
   border-radius: 1rem;
   box-shadow: 0 0 3px 3px rgb(205 205 205 / 38%);
   cursor: pointer;
   transition: all 0.5s ease;
 }
-#submit-btn:hover {
+#play-btn:hover {
   box-shadow: 0 0 3px 3px rgba(97, 255, 83, 0.671);
 }
